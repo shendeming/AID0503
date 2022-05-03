@@ -1,8 +1,15 @@
-# GIT项目
 ## IO网络
+Linux命令  TCP/IP   TCP UDP
 
+## 多任务编程
+多进程 多线程 IO多路复用  协程
+python多线程不行  GIL锁
 
-# 进程线程    多进程 多线程
+## MySQL
+关系型数据库
+create show use drop   数据库操作
+create insert select update delete  数据表操作
+alter add drop modify change    表字段操作
 
-# 进程线程是系统编程的核心操作
-Joy 也修改了这一部分，python线程不行
+## GIT项目
+git github gitlab
